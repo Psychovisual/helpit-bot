@@ -50,5 +50,5 @@ function runHelp() {
     }
 
     bot.postMessageToChannel('slack-bot', 'This is an automated help message', params);
-    
+    //hello
 }
